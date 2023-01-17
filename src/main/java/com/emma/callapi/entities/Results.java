@@ -1,4 +1,4 @@
-package com.emma.callapi;
+package com.emma.callapi.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

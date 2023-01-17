@@ -1,7 +1,7 @@
 package com.emma.callapi.web;
 
 
-import com.emma.callapi.Pokemons;
+import com.emma.callapi.entities.Pokemons;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.CrossOrigin;
